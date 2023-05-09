@@ -1,16 +1,64 @@
-### Hi there 👋
+# *Gustavo Mota Macedo*
+<div align="left">
+<img src="https://avatars.githubusercontent.com/u/91705195?s=250&u=20f7ca927414280e445e07656ca35640edf6d0d7&v=4">
+</div>
 
-<!--
-**gustavomotamacedo/gustavomotamacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Informações
+Brasileiro, 25/05/2004
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cursando Ciência da Computação, *02/2022 - 12/2025***
+
+---
+## Redes e contato
+
+<div> 
+  <a href="https://instagram.com/mocc3_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mota.macedo05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavomotamacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
++ 🖥 Desenvolvedor ***Back-End APS.NET***
++ 📚 Atualmente estudando:
+    + 👨‍💻 APS.NET
+    + 👨‍💻 MVC
+    + 👨‍💻 API's
++ Soft skills:
+    + 📢 Comunicação
+    + 👪 Trabalho em equipe
+    + 👨‍🔬 Resolução de problemas
+    + 📖 Aprendizado contínuo
+    + 📜 Adaptabilidade
++ Hard skills:
+    + ***HTML 5***
+    + ***CSS 3***
+    + ***Javascript***
+    + ***C#***
+    + ***.NET***
+    + ***Orientação a Objetos***
+    + ***Git e Github***
+
+---
+<div>
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomotamacedo&theme=dark">
+    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=gustavomotamacedo&show_icons=true&theme=dark">
+</div>
+
+<div style="display: inline_block;">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+---
