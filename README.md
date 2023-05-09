@@ -1,7 +1,5 @@
 # *Gustavo Mota Macedo*
 
----
-
 ## Informações
 Brasileiro, 25/05/2004
 
