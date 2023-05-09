@@ -1,7 +1,4 @@
 # *Gustavo Mota Macedo*
-<div align="left">
-<img src="https://avatars.githubusercontent.com/u/91705195?s=250&u=20f7ca927414280e445e07656ca35640edf6d0d7&v=4">
-</div>
 
 ---
 
