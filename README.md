@@ -5,10 +5,17 @@ Brasileiro, 25/05/2004
 
 **Cursando Ciência da Computação, *02/2022 - 12/2025***
 
-+ 🖥 Desenvolvedor ***Back-End APS.NET***
+Altamente motivado, com sede de aprendizado e capacitado a buscar novos
+conhecimentos. Engajado em projetos como Iniciação Científica, em 2024, monitoria de
+Programação Orientada a Objetos, no primeiro semestre de 2024, e FEPRO, no ano de 2023
+(Feira de Profissões) na Universidade Cidade de São Paulo. Assertivo e capaz de desenvolver
+novas habilidades.
+
++ 🖥 Desenvolvedor ***JAVA***
 + 📚 Atualmente estudando:
-    + 👨‍💻 APS.NET
-    + 👨‍💻 MVC
+    + 👨‍💻 SPRING
+    + 👨‍💻 COMPUTAÇÃO GRÁFICA
+    + 👨‍💻 MOBILE
     + 👨‍💻 API's
 + Soft skills:
     + 📢 Comunicação
@@ -20,21 +27,18 @@ Brasileiro, 25/05/2004
     + 🌐 ***HTML 5***
     + 🌐 ***CSS 3***
     + 🌐 ***Javascript***
-    + 🖥 ***C#***
-    + 🖥 ***.NET***
+    + 🖥 ***JAVA***
+    + 🖥 ***SPRING FRAMEWORK***
+    + 🖥 ***BANCOS DE DADOS SQL e NoSql***
     + 📕 ***Orientação a Objetos***
     + 🐙 ***Git e Github***
 
 ---
-<div>
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomotamacedo&theme=dark">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=gustavomotamacedo&show_icons=true&theme=dark">
-</div>
 
 <div style="display: inline_block;">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -42,7 +46,6 @@ Brasileiro, 25/05/2004
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 ## Redes e contato
