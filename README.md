@@ -35,6 +35,12 @@ novas habilidades.
 
 ---
 
+<div>
+<a href="https://github.com/gustavomotamacedo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomotamacedo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomotamacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <div style="display: inline_block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
