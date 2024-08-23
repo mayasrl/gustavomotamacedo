@@ -29,6 +29,7 @@ novas habilidades.
     + 🌐 ***Javascript***
     + 🖥 ***JAVA***
     + 🖥 ***SPRING FRAMEWORK***
+    + 🖥 ***ANDROID STUDIO***
     + 🖥 ***BANCOS DE DADOS SQL e NoSql***
     + 📕 ***Orientação a Objetos***
     + 🐙 ***Git e Github***
