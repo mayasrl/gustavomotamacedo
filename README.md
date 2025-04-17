@@ -21,10 +21,10 @@
   alt="Gyro Zeppeli GIF"
   width="80"
   align="left"
-  hspace="32"
+  hspace="16"
 />
 
-<table>
+<table align="right">
   <tr>
     <th>Back‑end</th>
     <th>Front‑end</th>
