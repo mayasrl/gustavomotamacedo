@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/AzDyywx6ezMAAAAd/jojo-gyro.gif" width="150" style="border-radius:50%;" alt="GIF do Gyro Zeppeli"/>
+  ![tenor (2)](https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f)
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
@@ -57,12 +57,12 @@
 
 <p align="center">
   <a href="mailto:mota.macedo05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://github.com/maurodesouza/profile-readme-generator/raw/main/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/gustavomotamacedo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/>
   </a>
   <a href="https://instagram.com/mocc3_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"/>
   </a>
 </p>
