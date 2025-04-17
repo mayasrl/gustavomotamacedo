@@ -22,7 +22,7 @@
   width="80"
   align="left"
   style="margin-right:16px;"
->
+/>
 
 <table>
   <tr>
@@ -44,6 +44,8 @@
     <td></td>
   </tr>
 </table>
+
+<p style="clear: both;"></p>
 
 <p><strong>Soft Skills:</strong> Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade</p>
 
