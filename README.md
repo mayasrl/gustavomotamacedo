@@ -20,8 +20,9 @@
   src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f"
   alt="Gyro Zeppeli GIF"
   width="80"
-  style="float:left; margin-right:16px;"
-/>
+  align="left"
+  style="margin-right:16px;"
+>
 
 <table>
   <tr>
@@ -44,9 +45,8 @@
   </tr>
 </table>
 
-<div style="clear: both;"></div>
+<p><strong>Soft Skills:</strong> Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade</p>
 
-**Soft Skills:** Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade  
 
 ## 🔖 Projetos Recentes
 - [📱 Meu App Android](#)  
