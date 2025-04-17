@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/gyro.gif" alt="Gyro Zeppeli GIF" />
-</p>
-
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
 <p align="center">
   <em>Estudante de Ciência da Computação • Apaixonado por back‑end, mobile e APIs</em>
@@ -20,12 +16,11 @@
 
 ## 🚀 Tecnologias & Skills
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: stretch; gap: 16px;">
   <img
     src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/gyro.gif"
     alt="Gyro Zeppeli GIF"
-    width="100"
-    style="margin-right: 16px;"
+    style="align-self: stretch;"
   />
   <table>
     <tr>
