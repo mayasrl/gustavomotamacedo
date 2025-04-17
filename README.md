@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/Qf3Z8XJxtKtcDKDD9" width="150" style="border-radius:50%;" alt="GIF do Gustavo Mota Macedo"/>
+  <img src="https://media1.tenor.com/m/AzDyywx6ezMAAAAd/jojo-gyro.gif" width="150" style="border-radius:50%;" alt="GIF do Gyro Zeppeli"/>
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
@@ -55,11 +55,14 @@
 
 ## 📫 Contato
 
-<div align="left">
+<p align="center">
+  <a href="mailto:mota.macedo05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/gustavomotamacedo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/gusmaced0" target="_blank">
+  <a href="https://instagram.com/mocc3_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-</div>
+</p>
