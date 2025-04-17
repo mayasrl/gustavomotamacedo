@@ -1,5 +1,6 @@
-<p align="center">
-  ![tenor (2)](https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f)
+<p align="center">![tenor (2)](https://github.com/user-attachments/assets/6cea3b59-178c-41b1-9c19-60a27c3e7982)
+
+  <img src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f" alt="Gyro Zeppeli GIF" />
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
@@ -20,22 +21,29 @@
 
 ## 🚀 Tecnologias & Skills
 
+<div align="center">
+
 | Back‑end           | Front‑end        | Mobile            | Banco de Dados      |
 | ------------------ | ---------------- | ----------------- | ------------------- |
 | Java • Spring      | HTML5 • CSS3     | Android Studio    | SQL • NoSQL         |
-| APIs REST          | JavaScript (ES6) | Flutter (em estudo)|                     |
+
+</div>
 
 **Soft Skills:** Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade  
 
 ## 🔖 Projetos Recentes
 - [📱 Meu App Android](#)  
-  App de exemplo usando Retrofit e MVVM.
+  App de exemplo usando Retrofit e MVVM.  
 - [🌐 Site Pessoal](#)  
   Landing page responsiva em HTML5 e CSS3.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavomotamacedo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="140" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomotamacedo&layout=compact&langs_count=7&theme=onedark" height="140" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gustavomotamacedo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" 
+    height="140" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomotamacedo&layout=compact&langs_count=7&theme=onedark" 
+    height="140" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -57,7 +65,7 @@
 
 <p align="center">
   <a href="mailto:mota.macedo05@gmail.com" target="_blank">
-    <img src="https://github.com/maurodesouza/profile-readme-generator/raw/main/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="52" height="40" alt="Gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/gustavomotamacedo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/>
