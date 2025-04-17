@@ -1,5 +1,4 @@
-<p align="center">![tenor (2)](https://github.com/user-attachments/assets/6cea3b59-178c-41b1-9c19-60a27c3e7982)
-
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f" alt="Gyro Zeppeli GIF" />
 </p>
 
@@ -26,6 +25,7 @@
 | Back‑end           | Front‑end        | Mobile            | Banco de Dados      |
 | ------------------ | ---------------- | ----------------- | ------------------- |
 | Java • Spring      | HTML5 • CSS3     | Android Studio    | SQL • NoSQL         |
+| APIs REST          | JavaScript (ES6) | Flutter (em estudo)|                     |
 
 </div>
 
