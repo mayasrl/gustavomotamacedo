@@ -54,20 +54,10 @@
 ---
 
 ## 📫 Contato
-<p align="center">
-  <a href="https://github.com/gustavomotamacedo">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:mota.macedo05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gustavomotamacedo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/mocc3_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/macedojar">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter" alt="X"/>
-  </a>
-</p>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+</div>
