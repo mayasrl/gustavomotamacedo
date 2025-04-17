@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavomotamacedo.png" width="150" style="border-radius:50%;" alt="Foto do Gustavo Mota Macedo"/>
+  <img src="https://images.app.goo.gl/Qf3Z8XJxtKtcDKDD9" width="150" style="border-radius:50%;" alt="GIF do Gustavo Mota Macedo"/>
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
@@ -56,8 +56,10 @@
 ## 📫 Contato
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  <a href="https://www.linkedin.com/in/gustavomotamacedo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/gusmaced0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
 </div>
