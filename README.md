@@ -21,7 +21,7 @@
   alt="Gyro Zeppeli GIF"
   width="80"
   align="left"
-  style="margin-right:100px;"
+  hspace="32"
 />
 
 <table>
