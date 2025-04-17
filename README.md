@@ -16,11 +16,12 @@
 
 ## 🚀 Tecnologias & Skills
 
-<div style="display: flex; align-items: stretch; gap: 16px;">
+<div style="display: flex; align-items: flex-start; gap: 16px;">
   <img
-    src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/gyro.gif"
+    src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f"
     alt="Gyro Zeppeli GIF"
-    style="align-self: stretch;"
+    width="80"
+    style="margin-right: 16px;"
   />
   <table>
     <tr>
