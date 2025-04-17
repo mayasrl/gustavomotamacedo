@@ -16,34 +16,35 @@
 
 ## 🚀 Tecnologias & Skills
 
-<div style="display: flex; align-items: flex-start; gap: 16px;">
-  <img
-    src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f"
-    alt="Gyro Zeppeli GIF"
-    width="80"
-    style="margin-right: 16px;"
-  />
-  <table>
-    <tr>
-      <th>Back‑end</th>
-      <th>Front‑end</th>
-      <th>Mobile</th>
-      <th>Banco de Dados</th>
-    </tr>
-    <tr>
-      <td>Java • Spring</td>
-      <td>HTML5 • CSS3</td>
-      <td>Android Studio</td>
-      <td>SQL • NoSQL</td>
-    </tr>
-    <tr>
-      <td>APIs REST</td>
-      <td>JavaScript (ES6)</td>
-      <td>Flutter (em estudo)</td>
-      <td></td>
-    </tr>
-  </table>
-</div>
+<img
+  src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f"
+  alt="Gyro Zeppeli GIF"
+  width="80"
+  style="float:left; margin-right:16px;"
+/>
+
+<table>
+  <tr>
+    <th>Back‑end</th>
+    <th>Front‑end</th>
+    <th>Mobile</th>
+    <th>Banco de Dados</th>
+  </tr>
+  <tr>
+    <td>Java • Spring</td>
+    <td>HTML5 • CSS3</td>
+    <td>Android Studio</td>
+    <td>SQL • NoSQL</td>
+  </tr>
+  <tr>
+    <td>APIs REST</td>
+    <td>JavaScript (ES6)</td>
+    <td>Flutter (em estudo)</td>
+    <td></td>
+  </tr>
+</table>
+
+<div style="clear: both;"></div>
 
 **Soft Skills:** Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade  
 
