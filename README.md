@@ -101,8 +101,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/gustavomotamacedo/gustavomotamacedo/output/snake.svg" alt="Snake animation" />
+
+---
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/gustavomotamacedo/count.svg?"  />
 </div>
-
-###
