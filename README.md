@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<p style="clear: both;"></p>
+<div style="clear: both;"></div>
 
 <p><strong>Soft Skills:</strong> Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade</p>
 
