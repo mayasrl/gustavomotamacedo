@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c47d6bf7-3830-4233-875c-58ad6857bf0f" alt="Gyro Zeppeli GIF" />
+  <img src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/gyro.gif" alt="Gyro Zeppeli GIF" />
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
@@ -20,13 +20,33 @@
 
 ## 🚀 Tecnologias & Skills
 
-<div align="center">
-
-| Back‑end           | Front‑end        | Mobile            | Banco de Dados      |
-| ------------------ | ---------------- | ----------------- | ------------------- |
-| Java • Spring      | HTML5 • CSS3     | Android Studio    | SQL • NoSQL         |
-| APIs REST          | JavaScript (ES6) | Flutter (em estudo)|                     |
-
+<div style="display: flex; align-items: flex-start;">
+  <img
+    src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/gyro.gif"
+    alt="Gyro Zeppeli GIF"
+    width="100"
+    style="margin-right: 16px;"
+  />
+  <table>
+    <tr>
+      <th>Back‑end</th>
+      <th>Front‑end</th>
+      <th>Mobile</th>
+      <th>Banco de Dados</th>
+    </tr>
+    <tr>
+      <td>Java • Spring</td>
+      <td>HTML5 • CSS3</td>
+      <td>Android Studio</td>
+      <td>SQL • NoSQL</td>
+    </tr>
+    <tr>
+      <td>APIs REST</td>
+      <td>JavaScript (ES6)</td>
+      <td>Flutter (em estudo)</td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 **Soft Skills:** Comunicação · Trabalho em equipe · Resolução de problemas · Aprendizado contínuo · Adaptabilidade  
